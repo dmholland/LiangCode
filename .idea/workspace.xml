@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6a3ccd0-b774-4171-af1e-c2b6bf1edb92" name="Default" comment="" />
+    <list default="true" id="c6a3ccd0-b774-4171-af1e-c2b6bf1edb92" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,8 +17,8 @@
       <file leaf-file-name="Hangman.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Hangman.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="49">
-              <caret line="243" column="72" selection-start-line="243" selection-start-column="72" selection-end-line="243" selection-end-column="72" />
+            <state relative-caret-position="227">
+              <caret line="251" column="63" lean-forward="true" selection-start-line="251" selection-start-column="63" selection-end-line="251" selection-end-column="63" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#161#169#0" expanded="true" />
@@ -40,6 +42,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
@@ -60,6 +65,7 @@
     <option name="width" value="1015" />
     <option name="height" value="1050" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -168,6 +174,14 @@
       <option name="presentableId" value="Default" />
       <updated>1584755679290</updated>
     </task>
+    <task id="LOCAL-00001" summary="Test Changes">
+      <created>1584889529148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584889529148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -182,7 +196,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32968536" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -204,6 +218,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Changes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -299,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Hangman.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="243" column="72" selection-start-line="243" selection-start-column="72" selection-end-line="243" selection-end-column="72" />
+        <state relative-caret-position="227">
+          <caret line="251" column="63" lean-forward="true" selection-start-line="251" selection-start-column="63" selection-end-line="251" selection-end-column="63" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#161#169#0" expanded="true" />
